@@ -6,3 +6,5 @@
 API 활용 방법
 
 RickAndMorty API -> https://rickandmortyapi.com
+
+PART 1 ~
